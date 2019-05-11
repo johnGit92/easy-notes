@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: development
+  jpa:
+    open-in-view: false # Since we used spring-data-starter, must disable Open-In-View to use lazy fetch of data

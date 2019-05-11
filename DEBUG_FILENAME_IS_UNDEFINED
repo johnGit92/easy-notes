@@ -1,0 +1,6 @@
+2019-05-03 17:05:10,095 INFO com.example.easynotes.EasyNotesApplication [restartedMain] Starting EasyNotesApplication on Formazione-15 with PID 9124 (C:\Users\Student\Desktop\Corso_Interno\easy-notes\target\classes started by Student in C:\Users\Student\Desktop\Corso_Interno\easy-notes)
+2019-05-03 17:05:10,097 INFO com.example.easynotes.EasyNotesApplication [restartedMain] The following profiles are active: default
+2019-05-03 17:05:12,730 INFO com.example.easynotes.EasyNotesApplication [restartedMain] Started EasyNotesApplication in 3.04 seconds (JVM running for 3.763)
+2019-05-03 17:13:47,664 INFO com.example.easynotes.EasyNotesApplication [restartedMain] Starting EasyNotesApplication on Formazione-15 with PID 13912 (C:\Users\Student\Desktop\Corso_Interno\easy-notes\target\classes started by Student in C:\Users\Student\Desktop\Corso_Interno\easy-notes)
+2019-05-03 17:13:47,666 INFO com.example.easynotes.EasyNotesApplication [restartedMain] The following profiles are active: default
+2019-05-03 17:13:50,353 INFO com.example.easynotes.EasyNotesApplication [restartedMain] Started EasyNotesApplication in 3.088 seconds (JVM running for 3.782)

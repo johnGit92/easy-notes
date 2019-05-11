@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/notes_app?useSSL=false&serverTimezone=GMT
+    username: root
+    password: 123456
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+
+#logging production configuration
+logging:
+  config: src\main\resources\logback-production.xml
